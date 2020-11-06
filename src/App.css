@@ -131,6 +131,12 @@ select {
   cursor: pointer;
   pointer-events: none;
 }
+@media (max-width:991px)
+{
+    section{
+        background-size:200%;
+    }
+}
 /* Transition */
 /*
 .select:hover::after {
