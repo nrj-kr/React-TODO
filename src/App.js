@@ -53,7 +53,7 @@ const filterHandler = () =>{
   return (
     <div className="App">
       <header>
-      <h1>Neeraj's todo list</h1>
+      <h1>Todo List</h1>
     </header>
     <Form  inputText={inputText}
            todos ={todos}
