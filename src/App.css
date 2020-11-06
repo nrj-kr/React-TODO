@@ -131,7 +131,7 @@ select {
   cursor: pointer;
   pointer-events: none;
 }
-@media (max-width:991px)
+@media (max-width:301px)
 {
     section{
         background-size:200%;
